@@ -14,18 +14,3 @@
 | 7 | Cuadro de honor | Lista doble | Inserción ordenada alfabéticamente solo de quienes tienen >= 9.5 |
 
 No se usa `LinkedList`, `ArrayList` ni `Vector`; todas las estructuras son propias (`Nodo`, `ListaSimple`, `ListaDoble`).
-
-## Cómo compilar y ejecutar
-
-```bash
-cd ejercicio1_Cafeteria
-javac *.java
-java Main < entrada.txt
-```
-
-(Igual para las demás carpetas.)
-
-## Envío a omegaUp
-
-omegaUp requiere un solo archivo. En `omegaup_envio/` están las versiones de cada ejercicio
-unidas en un único `Main.java` (clases `Nodo`, `Lista*` y `Main` en el mismo archivo).
